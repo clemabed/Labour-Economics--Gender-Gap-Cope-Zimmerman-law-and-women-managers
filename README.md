@@ -21,5 +21,4 @@ Due to statistical confidentiality, we cannot provide the database used for the 
 
 This project thus includes several files:
 - Data : includes the codes that we used to construct our clean dataset.
-- Regression : includes the codes that we used for our regressions
-- Other : some codes which we used to solve some minor problems, and which are normally not needed to re run the code. 
+- Regression : includes the codes that we used for our regressions. 
