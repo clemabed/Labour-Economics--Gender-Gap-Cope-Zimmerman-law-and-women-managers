@@ -20,5 +20,5 @@ In particular, we find no significant effect on women's access to managerial pos
 Due to statistical confidentiality, we cannot provide the database used for the analysis. However, we do provide the construction and analysis codes used for this study. The files are ordered: to build the database you just have to run them in order.
 
 This project thus includes several files:
-- Code database creation : includes the codes that we used to construct our clean dataset.
-- Code regression : includes the codes that we used for our regressions. 
+- Code database creation : includes the codes that we used to construct our clean dataset (files BDD04 to BDD15).
+- Code regression : includes the codes that we used for our regressions (files 00 to 06). 
